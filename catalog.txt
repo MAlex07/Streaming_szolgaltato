@@ -1,0 +1,8 @@
+﻿MOVIE;Avatar;162
+SERIES;Breaking Bad
+EPISODE;1. évad 1. rész;58
+EPISODE;1. évad 2. rész;49
+SERIES;Wednesday
+EPISODE;1. rész;50
+EPISODE;2. rész;45
+MOVIE;Titanic;195
